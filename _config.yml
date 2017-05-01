@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://thornbird.github.io/
+url: https://thornbird.github.io
 date_format: "ordinal"
-title: jekyll-theme-solid
+title: Jing's Garden
 author: Chen Jing
 
 # ---------------- #
