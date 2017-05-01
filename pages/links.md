@@ -1,6 +1,6 @@
 ---
 layout: page
-title: friends' blogs
+title: VIPs
 description: friends' blogs
 keywords: friends
 permalink: /links/
