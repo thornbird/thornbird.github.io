@@ -8,13 +8,6 @@ permalink: /links/
 
 <ul>
   <li>
-    <a href="http://mazhuang.org/">
-      码志
-    </a>
-  </li>
-</ul>
-<ul class="list-unstyled">
-  <li>
     <a href="https://ruby-china.org/">
       Ruby China
     </a>
